@@ -22,7 +22,10 @@ p{
 }
 
 
-
+a{
+	color: white;
+	text-align: center;
+}
 
 
 
@@ -49,3 +52,12 @@ p{
 	margin-left:auto;
 }
 
+
+
+
+
+.box_red2{
+	width: 100%;
+	text-align: center;
+	color: white;
+}
