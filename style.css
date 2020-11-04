@@ -1,0 +1,51 @@
+body{
+	background-color: #302c32;
+	color: #fff;
+	font-family: 'Century Gothic', Arial, sans-serif;
+	
+}
+h1{
+	text-align: center;
+	color: white;
+}
+
+p{
+	text-align: center;
+	color: white;
+}
+
+.smallimage{
+	width: 40%;
+	display: block;
+	margin-right: auto;
+	margin-left:auto; 
+}
+
+
+
+
+
+
+
+.content{
+	text-align: center;	
+}
+
+.twoColumns{
+	display: inline-block;
+	box-sizing: border-box;
+	width: 48%;
+	padding: 25px;
+	font-size: initial;
+	margin-bottom: 40px;
+	vertical-align: top;
+	margin-right: 10px;	
+}
+
+.oneColumns{
+	width: 40%;
+	display: block;
+	margin-right: auto;
+	margin-left:auto;
+}
+
